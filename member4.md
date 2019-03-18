@@ -11,23 +11,23 @@
 
 # Interests
 
-* ##*Reading* :blue_book:
-* ##*Cooking* :doughnut:
-* ##*Classical Music* :violin:
-* ##*Playing Volleyball* 
-* ##*Swimming* :swimmer:
-* ##*Shopping* :dress: 
+* ## *Reading* :blue_book:
+* ## *Cooking* :doughnut:
+* ## *Classical Music* :violin:
+* ## *Playing Volleyball* 
+* ## *Swimming* :swimmer:
+* ## *Shopping* :dress: 
 
 # Work Experience
 
-* ##*Member junior robotics at K Vector foundation*
-* ##*Making a self driving car*
-* ##*Scientific research on ECG*
+* ## *Member junior robotics at K Vector foundation*
+* ## *Making a self driving car*
+* ## *Scientific research on ECG*
 
-#Education
+# Education
 
 ## **Cairo University**, Faculty of Engineerin, Systems and Biomedical Engineering
 
 # Skills
 
-* ##*C++, Python, Java*
+* ## *C++, Python, Java*
