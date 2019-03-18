@@ -1,6 +1,6 @@
 # Resume
 
-![Abdullah](/images/Member_1.jpg =1000x1000)
+![Abdullah](/images/Member_1.jpg = 1000x1000)
 
 * Name: Abdullah Mohammed
 * Year of Birth: 1999
