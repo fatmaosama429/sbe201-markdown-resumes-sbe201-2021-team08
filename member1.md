@@ -5,10 +5,29 @@ Make your resume layout as the following sample:
 
 # Resume
 
-![Abdullah](/media/abdullah-alrefaey/New Volume/Study/2nd Year Data 2021/2nd Semester/Computer Systems/Tasks/sbe201-markdown-resumes-sbe201-2021-team08/images/Member_1.jpg)
-
+![Abdullah](/images/Member_1.jpg)
 
 * Name: Abdullah Mohammed
 * Year of Birth: 1999
 * E-mail: abdullah.m.alrefaey@gmail.com
-* [Anyanime](https://ww3.anyanime.com/)
+* [Github](https://github.com/Abdullah-Alrefaey)
+
+# Interests
+
+* Anime & Reading about technology
+* Playing Games
+
+# Work Exerience
+
+* Information Technology Member at BEAT
+* Internal Public Relation Member at K-Vector Foundation
+* Representative of SBME Class 2021
+
+# Education
+
+* **Cairo University**, *Faculty Of Engineering, Systems and Biomedical Engineering.
+    * Will be graduated at 2021.
+
+# Skills
+* Basics C++
+* HTML, CSS, Basics Bootstrap and Basics Nodejs
