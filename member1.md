@@ -1,8 +1,3 @@
-Make your resume layout as the following sample:
-
-* [sample resume](https://sbme-tutorials.github.io/2019/data-structures/assignments/resumes/asem)
-* Try to use all Markdown features.
-
 # Resume
 
 ![Abdullah](/images/Member_1.jpg)
@@ -25,9 +20,10 @@ Make your resume layout as the following sample:
 
 # Education
 
-* **Cairo University**, *Faculty Of Engineering, Systems and Biomedical Engineering.
+* **Cairo University**, *Faculty Of Engineering*, Systems and Biomedical Engineering.
     * Will be graduated at 2021.
 
 # Skills
 * Basics C++
 * HTML, CSS, Basics Bootstrap and Basics Nodejs
+* Public Relation and Negotiation.

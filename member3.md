@@ -1,6 +1,7 @@
 # Resume
 
-![Salma](/member3.jpg)
+![Salma](/images/member3.JPG)
+
 * Name:**Salma Ayman**
 * Year of birth: **1998**
 * [GitHub](https://github.com/Salma-Ayman9)
@@ -25,6 +26,6 @@
 
 * Marketing
 * Negotiation
-
+* C++
         
 
