@@ -5,7 +5,7 @@
 | Team Members | Resume Link |
 |--------------|-------------|
 | *Member 1* (Abdullah Mohammed Sabry) | [resume](member1.md) |
-| *Member 2* (_*Ahmed Salah*_) | [resume](member2.md) |
+| *Member 2* (***Ahmed Salah***) | [resume](member2.md) |
 | *Member 3* (Salma Ayman) | [resume](member3.md) |
 | *Member 4* (SaRa Adel) | [resume](member4.md) |
 
