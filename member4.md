@@ -2,7 +2,7 @@
 
 *Member 4* ( Sara Adel ) | https://github.com/sbme-tutorials/sbe201-markdown-resumes-sbe201-2021-team08/blob/master/member4.md |
 
-![SaRa](/member4.jpg)
+![SaRa](/images/member4.jpg)
 
 * ## Name: **Sara Adel** :girl:
 * ## year of birth: **1998** :sunflower:
