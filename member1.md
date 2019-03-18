@@ -5,6 +5,7 @@ Make your resume layout as the following sample:
 
 # Resume
 
+<img src="/images/Member_1.jpg">
 ![Abdullah](/images/Member_1.jpg)
 
 * Name: Abdullah Mohammed
