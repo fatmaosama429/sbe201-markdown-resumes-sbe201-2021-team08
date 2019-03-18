@@ -25,9 +25,10 @@ Make your resume layout as the following sample:
 
 # Education
 
-* **Cairo University**, *Faculty Of Engineering, Systems and Biomedical Engineering.
+* **Cairo University**, *Faculty Of Engineering*, Systems and Biomedical Engineering.
     * Will be graduated at 2021.
 
 # Skills
 * Basics C++
 * HTML, CSS, Basics Bootstrap and Basics Nodejs
+* Public Relation and Negotiation.
