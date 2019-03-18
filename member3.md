@@ -1,18 +1,28 @@
-#Resume
-![Salma](member3.jpg)
+# Resume
+
+![Salma](/member3.jpg)
 * Name:**Salma Ayman**
 * Year of birth: **1998**
 * [GitHub](https://github.com/Salma-Ayman9)
-##Interests
+
+
+## Interests
+
 * Reading
 * Watching Football and Tennis
 * Watching English series and Anime
-##Work experience
+
+## Work experience
+
 * Marketing member at IEEE CUSB, 2017-2018
 * PR member at K Vector Foundation, 2018-2019
-##Education
+
+## Education
+
 * **Cairo University**, Faculty of Engineerin, Systems and Biomedical Engineering 2021
-##Skills
+
+## Skills
+
 * Marketing
 * Negotiation
 
