@@ -5,4 +5,4 @@ Make your resume layout as the following sample:
 
 # Resume
 
-![Abdullah](images/Member_1.jpg)
+![Abdullah](/images/Member_1.jpg)
