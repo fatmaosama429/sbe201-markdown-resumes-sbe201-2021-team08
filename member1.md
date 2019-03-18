@@ -5,7 +5,7 @@ Make your resume layout as the following sample:
 
 # Resume
 
-![Abdullah](/media/abdullah-alrefaey/New Volume/Study/2nd Year Data 2021/2nd Semester/Computer Systems/Tasks/sbe201-markdown-resumes-sbe201-2021-team08/images)
+![Abdullah](/media/abdullah-alrefaey/New Volume/Study/2nd Year Data 2021/2nd Semester/Computer Systems/Tasks/sbe201-markdown-resumes-sbe201-2021-team08/images/Member_1.jpg)
 
 
 * Name: Abdullah Mohammed
