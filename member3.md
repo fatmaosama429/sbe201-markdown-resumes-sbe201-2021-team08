@@ -1,6 +1,6 @@
 # Resume
 
-![Salma](/images/member3.jpg)
+![Salma](/images/member3.JPG)
 
 * Name:**Salma Ayman**
 * Year of birth: **1998**
@@ -26,6 +26,6 @@
 
 * Marketing
 * Negotiation
-
+* C++
         
 
