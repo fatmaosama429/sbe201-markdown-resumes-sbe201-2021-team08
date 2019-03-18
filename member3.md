@@ -1,6 +1,6 @@
 # Resume
 
-![Salma](member3.jpg)
+![Salma](/member3.jpg)
 * Name:**Salma Ayman**
 * Year of birth: **1998**
 * [GitHub](https://github.com/Salma-Ayman9)
