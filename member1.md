@@ -6,3 +6,9 @@ Make your resume layout as the following sample:
 # Resume
 
 ![Abdullah](/images/Member_1.jpg)
+
+
+* Name: Abdullah Mohammed
+* Year of Birth: 1999
+* E-mail: abdullah.m.alrefaey@gmail.com
+* [Anyanime](https://ww3.anyanime.com/)
