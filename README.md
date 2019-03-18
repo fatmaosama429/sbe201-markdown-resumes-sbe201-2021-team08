@@ -4,12 +4,11 @@
 
 | Team Members | Resume Link |
 |--------------|-------------|
-| *Member 1* (replace with your name here) | [resume](member1.md) |
-| *Member 2* (replace with your name here) | [resume](member2.md) |
-| *Member 3* (replace with your name here) | [resume](member3.md) |
-| *Member 4* (replace with your name here) | [resume](member4.md) |
-| *Member 5* (replace with your name here) | [resume](member5.md) |
-| *Member 6* (replace with your name here) | [resume](member6.md) |
+| *Member 1* (Abdullah Mohammed Sabry) | [resume](member1.md) |
+| *Member 2* (_*Ahmed Salah*_) | [resume](member2.md) |
+| *Member 3* (Salma Ayman) | [resume](member3.md) |
+| *Member 4* (SaRa Adel) | [resume](member4.md) |
+
 
 ## Guidelines
 
