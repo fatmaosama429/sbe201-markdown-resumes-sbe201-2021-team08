@@ -12,6 +12,7 @@
 * Reading
 * Watching Football and Tennis
 * Watching English series and Anime
+* Learning new programming languages
 
 ## Work experience
 
@@ -27,5 +28,8 @@
 * Marketing
 * Negotiation
 * C++
+* Html
+* CSS
+
         
 
