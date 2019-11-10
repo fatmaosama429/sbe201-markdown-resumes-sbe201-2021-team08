@@ -28,15 +28,15 @@
 ## **Cairo University**, Faculty of Engineerin, Systems and Biomedical Engineering
 
 # Skills
- * ### Personal skills:
-    * ## *Communication Skills*
-    * ## *presenting* 
-    * ## *listening, agreeable, supportive, helpful*
-    * ## *clear speech & writing*
-    * ## *teamwork*
-    * ## *collaborative, flexibility*
+ * ## Personal skills:
+    * ### *Communication Skills*
+    * ### *presenting* 
+    * ### *listening, agreeable, supportive, helpful*
+    * ### *clear speech & writing*
+    * ### *teamwork*
+    * ### *collaborative, flexibility*
 
- * ### Technical skills:
-    * ## *C++, C, embedded C*
-    * ## *Python, R*
-    * ## *HTML, CSS, Basics Bootstrap and JavaScript*  
+ * ## Technical skills:
+    * ### *C++, C, embedded C*
+    * ### *Python, R*
+    * ### *HTML, CSS, Basics Bootstrap and JavaScript*  
