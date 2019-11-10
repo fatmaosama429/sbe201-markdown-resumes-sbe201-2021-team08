@@ -29,9 +29,14 @@
 
 # Skills
  * Personal skills:
-    * ## *Communication Skills, presenting, listening, clear speech & writing, teamwork, agreeable, supportive, helpful, collaborative, flexibility*
+    * ## *Communication Skills*
+    * ## *presenting* 
+    * ## *listening, agreeable, supportive, helpful*
+    * ## *clear speech & writing*
+    * ## *teamwork*
+    * ## *collaborative, flexibility*
 
  * Technical skills:
-    * ## *C++, C, embedded C.*
+    * ## *C++, C, embedded C*
     * ## *Python, R*
-    * ## *HTML, CSS, Basics Bootstrap and JavaScript. *  
+    * ## *HTML, CSS, Basics Bootstrap and JavaScript*  
